@@ -1,0 +1,10 @@
+name: SpeedrunnerVersus
+version: ${project.version}
+main: me.specnr.speedrunnerversus.SpeedrunnerVersus
+api-version: 1.16
+authors: [ Specnr ]
+description: A race of 2 Speedrunners to beat the game, where they can both locate each other
+website: https://www.youtube.com/Specnr
+commands:
+  versus:
+    description: Starts a Speedrunner Versus Game
